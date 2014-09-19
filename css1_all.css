@@ -1,0 +1,171 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 17px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+P:first-letter {
+	font-size: 120%;
+}
+#name {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 25px; FONT-SIZE: 72px; PADDING-BOTTOM: 20px; MARGIN: 0px; LINE-HEIGHT: 56px; PADDING-TOP: 0px; FONT-FAMILY: times,serif; /*font-variant: small-caps;*/ font-weight: 200
+}
+#email {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+UL {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+OL {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+LI {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 17px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+DT {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+DD {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif
+}
+H1 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 44px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 56px; PADDING-TOP: 0px; FONT-FAMILY: palatino,serif;	/*font-variant: small-caps;*/ font-weight: 200
+
+}
+H2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+H3 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+H4 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+H5 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+H6 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+h7 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 16px; PADDING-TOP: 0px; FONT-FAMILY: arial,helvetica,sans-serif;	/*font-variant: small-caps*/
+
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+P {
+	MARGIN-BOTTOM: 1em
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+h7 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+Q {
+	PADDING-LEFT: 10px; FONT-STYLE: italic
+}
+BLOCKQUOTE {
+	PADDING-LEFT: 10px; FONT-STYLE: italic
+}
+.dateline {
+	COLOR: #9999cc
+}
+.subject {
+	FONT-WEIGHT: bold
+}
+.message {
+	
+}
+.smallcol {
+	FONT-SIZE: 10px; LINE-HEIGHT: 14px
+}
+.firstcolheader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 3px; WIDTH: 100%; COLOR: #999999; TEXT-INDENT: 5px; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid
+}
+.colheader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 3px; WIDTH: 100%; COLOR: #990000; TEXT-INDENT: 5px; PADDING-TOP: 2px; BORDER-BOTTOM: #000000 1px solid
+}
+
+.colheaderchild {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 0px 8px 3px; WIDTH: 80%; COLOR: #999999; TEXT-INDENT: 5px; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid
+}
+
+.colheaderbullet {
+	PADDING-RIGHT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 7px; COLOR: #999999; FONT-FAMILY: webdings
+}
+.bulletlist {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 1px; MARGIN: 1px; PADDING-TOP: 1px
+}
+.bulletlistsmall {
+	PADDING-LEFT: 8px; FONT-SIZE: 10px; MARGIN: 1px 1px 1px 9px
+}
+.copy {
+	COLOR: #9999cc
+}
+.post {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; PADDING-TOP: 0px
+}
+.readmepost {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; PADDING-TOP: 0px
+}
+.navsection {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 10px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; MARGIN: 1px; PADDING-TOP: 5px
+}
+.navchunk {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.inputtypetext {
+	MARGIN: 1em; WIDTH: 30em
+}
+.textareamessage {
+	MARGIN: 1em; WIDTH: 30em; HEIGHT: 200px
+}
+.gridrule {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.toprule {
+	BORDER-LEFT: #cccccc 5px solid
+}
+DT.r {
+	PADDING-RIGHT: 1px; BACKGROUND-POSITION: 0% 50%; DISPLAY: inline; PADDING-LEFT: 6px; FONT-SIZE: 10px; BACKGROUND-REPEAT: no-repeat
+}
+DT.o {
+	PADDING-RIGHT: 1px; BACKGROUND-POSITION: 0% 50%; DISPLAY: inline; PADDING-LEFT: 6px; FONT-SIZE: 10px; BACKGROUND-REPEAT: no-repeat
+}
+DT.g {
+	PADDING-RIGHT: 1px; BACKGROUND-POSITION: 0% 50%; DISPLAY: inline; PADDING-LEFT: 6px; FONT-SIZE: 10px; BACKGROUND-REPEAT: no-repeat
+}
+.schedule {
+	FONT-STYLE: italic; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: navy
+}
+A:visited {
+	COLOR: navy
+}
+A:hover {
+	COLOR: blue
+}
+A:active {
+	COLOR: red
+}
